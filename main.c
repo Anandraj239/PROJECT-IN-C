@@ -1,10 +1,11 @@
 //_____________________Guessing The Number______________________
 
-/*. We will write a program that generates a random number and ask the player to guess it.
-    if the player's guess is higher then the actual number , the program displays"Lower number please".
-    similarly, if the user's guess is too low, the program prints "Higher number please".
+/*
+    ~We will write a program that generates a random number and ask the player to guess it.
+    If the player's guess is higher then the actual number, the program displays "Lower number please".
+    ~similarly, if the user's guess is too low, the program prints "Higher number please".
 
-    When the user gusses the correct number, the program displays the number of guesses the player 
+    ~When the user gusses the correct number, the program displays the number of guesses the player 
     used to arrive at the number.
 */
 
